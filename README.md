@@ -35,3 +35,8 @@ python server.py <config_file path> <server_num>
 ## Co-Author
 
 [Xu wei](https://github.com/weixu000)
+
+## Reference
+
+[The Raft paper](https://raft.github.io/raft.pdf)
+[The Raft simulator](https://raft.github.io/raftscope/index.html)
