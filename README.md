@@ -38,5 +38,5 @@ python server.py <config_file path> <server_num>
 
 ## Reference
 
-[The Raft paper](https://raft.github.io/raft.pdf)
+[The Raft paper](https://raft.github.io/raft.pdf)  
 [The Raft simulator](https://raft.github.io/raftscope/index.html)
